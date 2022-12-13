@@ -43,3 +43,8 @@ td {
     display: block;
     text-align: center;
 }
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
